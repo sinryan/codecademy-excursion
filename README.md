@@ -1,2 +1,2 @@
 # Codecademy Project
-## Excursion
+## [Excursion](https://sinryan.github.io/codecademy-excursion/)
